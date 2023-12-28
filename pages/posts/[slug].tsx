@@ -12,6 +12,9 @@ import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
 
+import sysb from '../../public/assets/blog/systemsblue_s4.png'
+import CoverImage from '../../components/cover-image'
+
 type Props = {
   post: PostType
   morePosts: PostType[]
@@ -35,7 +38,6 @@ export default function Post({ post, morePosts, preview }: Props) {
             <article className="mb-32">
               <Head>
                 <title>{title}</title>
-                <meta property="og:image" content={post.ogImage.url} />
               </Head>
               <PostHeader
                 title={post.title}
@@ -44,6 +46,9 @@ export default function Post({ post, morePosts, preview }: Props) {
                 author={post.author}
               />
               <PostBody content={post.content} />
+              <div>
+                <center><a href="http://systemsblue.iiv.jp"><img src="/assets/blog/systemsblue_s4.png" /></a></center>
+              </div>
             </article>
           </>
         )}
