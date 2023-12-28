@@ -47,7 +47,7 @@ export default function Post({ post, morePosts, preview }: Props) {
               />
               <PostBody content={post.content} />
               <div>
-                <center><a href="http://systemsblue.iiv.jp"><img src="/betalogg/assets/blog/systemsblue_s4.png" /></a></center>
+                <center><a href="http://systemsblue.iiv.jp"><img src="/assets/blog/systemsblue_s4.png" /></a></center>
               </div>
             </article>
           </>
