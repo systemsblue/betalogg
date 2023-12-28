@@ -1,6 +1,6 @@
 ---
 title: 'About'
-coverImage: '/assets/blog/cover.jpg'
+coverImage: '/betalogg/assets/blog/cover.jpg'
 date: '2222-04-01T09:00:00.000Z'
 ---
 このブログについて
