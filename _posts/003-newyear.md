@@ -1,7 +1,7 @@
 ---
 title: 'Happy New Year'
 coverImage: '/assets/blog/cover.jpg'
-date: '2024-01-01T15:00:00.000Z'
+date: '2024-01-01T09:00:00.000Z'
 ---
 明けましておめでとうございます！
 
