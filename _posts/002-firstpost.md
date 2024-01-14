@@ -1,6 +1,6 @@
 ---
 title: 'The First Commit!'
-coverImage: '/assets/blog/cover.jpg'
+coverImage: '/assets/blog/t10.png'
 date: '2023-12-29T09:00:00.000Z'
 ---
 これまでたくさんのブログを書いてきましたが、今回このブログを始めたきっかけはこれまでとは違います。
