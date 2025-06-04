@@ -2,7 +2,7 @@
 
 [https://systemsblue.github.io/betalogg](https://systemsblue.github.io/betalogg)
 
----
+-----
 
 # A statically generated blog example using Next.js, Markdown, and TypeScript
 
